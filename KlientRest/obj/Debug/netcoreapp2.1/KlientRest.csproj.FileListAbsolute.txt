@@ -1,0 +1,11 @@
+C:\Users\Waldek\source\repos\SeminariumSOA\KlientRest\obj\Debug\netcoreapp2.1\KlientRest.csprojAssemblyReference.cache
+C:\Users\Waldek\source\repos\SeminariumSOA\KlientRest\obj\Debug\netcoreapp2.1\KlientRest.csproj.CoreCompileInputs.cache
+C:\Users\Waldek\source\repos\SeminariumSOA\KlientRest\obj\Debug\netcoreapp2.1\KlientRest.AssemblyInfoInputs.cache
+C:\Users\Waldek\source\repos\SeminariumSOA\KlientRest\obj\Debug\netcoreapp2.1\KlientRest.AssemblyInfo.cs
+C:\Users\Waldek\source\repos\SeminariumSOA\KlientRest\bin\Debug\netcoreapp2.1\KlientRest.deps.json
+C:\Users\Waldek\source\repos\SeminariumSOA\KlientRest\bin\Debug\netcoreapp2.1\KlientRest.runtimeconfig.json
+C:\Users\Waldek\source\repos\SeminariumSOA\KlientRest\bin\Debug\netcoreapp2.1\KlientRest.runtimeconfig.dev.json
+C:\Users\Waldek\source\repos\SeminariumSOA\KlientRest\bin\Debug\netcoreapp2.1\KlientRest.dll
+C:\Users\Waldek\source\repos\SeminariumSOA\KlientRest\bin\Debug\netcoreapp2.1\KlientRest.pdb
+C:\Users\Waldek\source\repos\SeminariumSOA\KlientRest\obj\Debug\netcoreapp2.1\KlientRest.dll
+C:\Users\Waldek\source\repos\SeminariumSOA\KlientRest\obj\Debug\netcoreapp2.1\KlientRest.pdb

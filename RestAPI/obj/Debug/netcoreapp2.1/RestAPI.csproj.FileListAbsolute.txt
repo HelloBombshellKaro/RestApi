@@ -1,0 +1,14 @@
+C:\Users\Waldek\source\repos\SeminariumSOA\RestAPI\bin\Debug\netcoreapp2.1\RestAPI.deps.json
+C:\Users\Waldek\source\repos\SeminariumSOA\RestAPI\bin\Debug\netcoreapp2.1\RestAPI.runtimeconfig.json
+C:\Users\Waldek\source\repos\SeminariumSOA\RestAPI\bin\Debug\netcoreapp2.1\RestAPI.runtimeconfig.dev.json
+C:\Users\Waldek\source\repos\SeminariumSOA\RestAPI\bin\Debug\netcoreapp2.1\RestAPI.dll
+C:\Users\Waldek\source\repos\SeminariumSOA\RestAPI\bin\Debug\netcoreapp2.1\RestAPI.pdb
+C:\Users\Waldek\source\repos\SeminariumSOA\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.csprojAssemblyReference.cache
+C:\Users\Waldek\source\repos\SeminariumSOA\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.csproj.CoreCompileInputs.cache
+C:\Users\Waldek\source\repos\SeminariumSOA\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.RazorAssemblyInfo.cache
+C:\Users\Waldek\source\repos\SeminariumSOA\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.RazorAssemblyInfo.cs
+C:\Users\Waldek\source\repos\SeminariumSOA\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.AssemblyInfoInputs.cache
+C:\Users\Waldek\source\repos\SeminariumSOA\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.AssemblyInfo.cs
+C:\Users\Waldek\source\repos\SeminariumSOA\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Waldek\source\repos\SeminariumSOA\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.dll
+C:\Users\Waldek\source\repos\SeminariumSOA\RestAPI\obj\Debug\netcoreapp2.1\RestAPI.pdb

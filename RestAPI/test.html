@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h1>Test usługi REST</h1>
+    <p id="test"></p>
+    <button onclick="PobierzDane('GET')">Pobierz Pracownika</button>
+    <button onclick="PobierzDane('PUT')">Edytuj dane (GET: https://localhost:44397/api/Pracownicy)</button>
+    <button onclick="PobierzDane('DELETE')">Pobierz dane</button>
+
+    <script lang="javascript">
+        function PobierzDane(czasownik) {
+            var xhttp = new XMLHttpRequest();
+
+            xhttp.onloadend = function () {
+                if (this.readyState == 4 && this.status == 200) // readyState =4 to DONE, status 200 - to OK
+                {
+                    var pracownikList = JSON.parse(xhttp.responseText).value;
+                    document.getElementById("test").innerHTML = pracownikList[0].nazwisko;
+                } else {
+                    document.getElementById("test").innerHTML = this.readyState + " " + this.status;
+                }
+            };
+
+            var body = "";
+            if (czasownik == "PUT") {
+                xhttp.open(czasownik, "https://localhost:44397/api/Pracownicy/1", false);
+                body = "{'id'=1','imie':'Jan','nazwisko':'kowalski'}";
+            }
+            if (czasownik == "GET") xhttp.open(czasownik, "https://localhost:44397/api/Pracownicy", false);
+            xhttp.send(body);
+           
+
+        }
+    </script>
+</body>
+
+
+</html>
